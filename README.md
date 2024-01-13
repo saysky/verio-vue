@@ -1,6 +1,8 @@
 # SpringBoot Vue房屋租赁系统
 基于SpringBoot Vue房屋租赁系统
 [详细说明](https://liuyanzhao.com/shop/verio-vue.html) <br/>
+演示视频1：B站地址：链接：[https://www.bilibili.com/video/BV13W4y1P7cq](https://www.bilibili.com/video/BV13W4y1P7cq)  <br/>
+演示视频2：百度网盘地址：链接：[https://pan.baidu.com/s/1iRVLazwr0nLJlcSdcLMDkw?pwd=5aiq](https://pan.baidu.com/s/1iRVLazwr0nLJlcSdcLMDkw?pwd=5aiq) 提取码：5aiq  <br/>
 完成时间：2024年1月12日
 
 ## 功能组成
