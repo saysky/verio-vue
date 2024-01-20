@@ -9,7 +9,7 @@
 预览地址：（服务器性能差访问会慢点，见谅） <br/>
   前台页面 http://verio-portal.liuyanzhao.com <br/>
   后台管理 http://verio-manage.liuyanzhao.com <br/>
-测试账号：管理员admin、租客123456、房东mayun，密码都是123456 <br/>
+测试账号：管理员admin、租客zhangsan、房东mayun，密码都是123456 <br/>
 
 <hr/>
 完成时间：2024年1月12日
