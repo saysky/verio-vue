@@ -1,18 +1,16 @@
 # SpringBoot Vue房屋租赁系统
 基于SpringBoot Vue房屋租赁系统
-
 [详细说明](https://liuyanzhao.com/shop/verio-vue.html) <br/>
-<hr/>
-演示视频1：B站地址：链接：https://www.bilibili.com/video/BV13W4y1P7cq  <br/>
-演示视频2：百度网盘地址：链接：https://pan.baidu.com/s/1iRVLazwr0nLJlcSdcLMDkw?pwd=5aiq 提取码：5aiq  <br/>
-<hr/>
-预览地址：（服务器性能差访问会慢点，见谅） <br/>
+
+#### 演示地址：
   前台页面 http://verio-portal.liuyanzhao.com <br/>
   后台管理 http://verio-manage.liuyanzhao.com <br/>
-测试账号：管理员admin、租客zhangsan、房东mayun，密码都是123456 <br/>
-
-<hr/>
-完成时间：2024年1月12日
+  测试账号：管理员admin、租客zhangsan、房东mayun，密码都是123456 <br/>
+  
+####  演示视频：
+演示视频1：B站地址：https://www.bilibili.com/video/BV13W4y1P7cq ﻿ <br/>
+演示视频2：https://pan.baidu.com/s/1iRVLazwr0nLJlcSdcLMDkw?pwd=5aiq  <br/>
+完成时间：2024年1月20日 <br/>
 
 ## 功能组成
 - 主要功能模块
