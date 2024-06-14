@@ -382,4 +382,3 @@ public class GenTable extends BaseEntity
         }
         return StringUtils.equalsAnyIgnoreCase(javaField, GenConstants.BASE_ENTITY);
     }
-}

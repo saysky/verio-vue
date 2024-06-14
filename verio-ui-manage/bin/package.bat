@@ -9,4 +9,3 @@ cd %~dp0
 cd ..
 npm install --registry=https://registry.npmmirror.com
 
-pause

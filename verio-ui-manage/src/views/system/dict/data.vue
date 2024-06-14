@@ -399,4 +399,3 @@ export default {
     }
   }
 };
-</script>

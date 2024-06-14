@@ -107,4 +107,3 @@ public class MyBatisConfig
 //        sessionFactory.setConfigLocation(new DefaultResourceLoader().getResource(configLocation));
 //        return sessionFactory.getObject();
 //    }
-}

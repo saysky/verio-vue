@@ -57,4 +57,3 @@ export function delMenu(menuId) {
     url: '/system/menu/' + menuId,
     method: 'delete'
   })
-}

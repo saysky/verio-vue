@@ -139,4 +139,3 @@ public class SysMenuController extends BaseController
         }
         return toAjax(menuService.deleteMenuById(menuId));
     }
-}

@@ -44,4 +44,3 @@ export function checkRole(value) {
     console.error(`need roles! Like checkRole="['admin','editor']"`)
     return false
   }
-}

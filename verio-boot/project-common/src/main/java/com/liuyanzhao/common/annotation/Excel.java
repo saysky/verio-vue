@@ -185,4 +185,3 @@ public @interface Excel
             return this.value;
         }
     }
-}

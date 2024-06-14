@@ -6,4 +6,3 @@ export function getServer() {
     url: '/monitor/server',
     method: 'get'
   })
-}

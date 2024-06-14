@@ -57,4 +57,3 @@ export function optionselect() {
     url: '/system/dict/type/optionselect',
     method: 'get'
   })
-}

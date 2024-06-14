@@ -156,4 +156,3 @@ PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
 		update sys_dept set del_flag = '2' where dept_id = #{deptId}
 	</delete>
 
-</mapper> 

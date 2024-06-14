@@ -50,4 +50,3 @@ public class CommonEntity implements Serializable {
         return params;
     }
 
-}

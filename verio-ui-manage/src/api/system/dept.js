@@ -49,4 +49,3 @@ export function delDept(deptId) {
     url: '/system/dept/' + deptId,
     method: 'delete'
   })
-}

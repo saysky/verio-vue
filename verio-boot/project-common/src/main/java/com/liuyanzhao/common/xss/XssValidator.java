@@ -32,4 +32,3 @@ public class XssValidator implements ConstraintValidator<Xss, String>
         Matcher matcher = pattern.matcher(value);
         return matcher.matches();
     }
-}

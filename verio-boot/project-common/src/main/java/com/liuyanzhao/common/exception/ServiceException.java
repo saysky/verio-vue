@@ -71,4 +71,3 @@ public final class ServiceException extends RuntimeException
         this.detailMessage = detailMessage;
         return this;
     }
-}

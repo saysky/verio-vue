@@ -199,4 +199,3 @@
 	    delete from sys_menu where menu_id = #{menuId}
 	</delete>
 
-</mapper> 

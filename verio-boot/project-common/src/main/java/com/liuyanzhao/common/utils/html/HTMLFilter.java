@@ -567,4 +567,3 @@ public final class HTMLFilter
     {
         return allowed(name) && (vAllowed.isEmpty() || vAllowed.get(name).contains(paramName));
     }
-}
