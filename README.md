@@ -10,7 +10,6 @@
 ####  演示视频：
 演示视频1：B站地址：https://www.bilibili.com/video/BV13W4y1P7cq ﻿ <br/>
 演示视频2：https://pan.baidu.com/s/1iRVLazwr0nLJlcSdcLMDkw?pwd=5aiq  <br/>
-完成时间：2024年1月20日 <br/>
 
 ## 功能组成
 - 主要功能模块
